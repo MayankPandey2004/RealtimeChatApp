@@ -6,12 +6,6 @@ Welcome to the Chat App! This application allows users to chat in real-time usin
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Setup](#setup)
-- [Running the App](#running-the-app)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -26,10 +20,3 @@ Welcome to the Chat App! This application allows users to chat in real-time usin
 - Expo CLI (installed globally)
 - Firebase account
 
-## Installation
-
-1. **Clone the Repository**
-
-   ```sh
-   git clone https://github.com/yourusername/chat-app.git
-   cd chat-app
